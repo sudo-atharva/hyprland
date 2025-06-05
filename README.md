@@ -113,7 +113,8 @@ Here’s your universal script: <b>✅ fix_flatpak_hyprland.sh</b>
 
 **You can download it from this repository:**
 
-📂 <a href="./fix_hyprland_flatpak.sh">Click to download fix_hyprland_flatpak.sh</a>
+📂 by running the following command in your terminal:
+```bash git clone https://github.com/sudo-atharva/hyprland.git
 
 ### 🔧 How to Use
 
