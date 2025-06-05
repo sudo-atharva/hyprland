@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/hyprwm/Hyprland/main/.github/assets/logo.svg" alt="Hyprland Logo" width="120"/>
+  <img src="output/hyprland%20logo.png" alt="Hyprland Logo" width="200"/>
+  <br><sub>Hyprland Logo</sub>
 </p>
 
 <h1 align="center">🧩 Fixing Flatpak Apps on Hyprland (Ubuntu 24.04)</h1>
@@ -184,11 +185,6 @@ Below are some screenshots and images demonstrating the results and usage of thi
 <p align="center">
   <img src="output/freecad.png" alt="FreeCAD Running" width="350"/>
   <br><sub>FreeCAD Flatpak running on Hyprland</sub>
-</p>
-
-<p align="center">
-  <img src="output/hyprland%20logo.png" alt="Hyprland Logo" width="200"/>
-  <br><sub>Hyprland Logo</sub>
 </p>
 
 <p align="center">
