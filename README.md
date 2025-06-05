@@ -167,3 +167,39 @@ This guide is open-sourced under the [MIT License](LICENSE).
 
 ---
 
+## 🖼️ Output Gallery
+
+Below are some screenshots and images demonstrating the results and usage of this guide and script:
+
+<p align="center">
+  <img src="output/arduino%20ide%202%20running.png" alt="Arduino IDE 2 Running" width="350"/>
+  <br><sub>Arduino IDE 2 running on Hyprland (with fix applied)</sub>
+</p>
+
+<p align="center">
+  <img src="output/desktop_launcher.png" alt="Custom Desktop Launcher" width="350"/>
+  <br><sub>Custom .desktop launcher in the application menu</sub>
+</p>
+
+<p align="center">
+  <img src="output/freecad.png" alt="FreeCAD Running" width="350"/>
+  <br><sub>FreeCAD Flatpak running on Hyprland</sub>
+</p>
+
+<p align="center">
+  <img src="output/hyprland%20logo.png" alt="Hyprland Logo" width="200"/>
+  <br><sub>Hyprland Logo</sub>
+</p>
+
+<p align="center">
+  <img src="output/kicad_running.png" alt="KiCad Running" width="350"/>
+  <br><sub>KiCad Flatpak running on Hyprland</sub>
+</p>
+
+<p align="center">
+  <img src="output/vs%20code.png" alt="VS Code Running" width="350"/>
+  <br><sub>VS Code Flatpak running on Hyprland</sub>
+</p>
+
+---
+
